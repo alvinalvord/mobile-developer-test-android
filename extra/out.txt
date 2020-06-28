@@ -1,0 +1,63 @@
+@SerializedName("wrapperType")
+private String wrapperType;
+@SerializedName("kind")
+private String kind;
+@SerializedName("artistId")
+private Integer artistId;
+@SerializedName("collectionId")
+private Integer collectionId;
+@SerializedName("trackId")
+private Integer trackId;
+@SerializedName("artistName")
+private String artistName;
+@SerializedName("collectionName")
+private String collectionName;
+@SerializedName("trackName")
+private String trackName;
+@SerializedName("collectionCensoredName")
+private String collectionCensoredName;
+@SerializedName("trackCensoredName")
+private String trackCensoredName;
+@SerializedName("artistViewUrl")
+private String artistViewUrl;
+@SerializedName("collectionViewUrl")
+private String collectionViewUrl;
+@SerializedName("trackViewUrl")
+private String trackViewUrl;
+@SerializedName("previewUrl")
+private String previewUrl;
+@SerializedName("artworkUrl30")
+private String artworkUrl30;
+@SerializedName("artworkUrl60")
+private String artworkUrl60;
+@SerializedName("artworkUrl100")
+private String artworkUrl100;
+@SerializedName("collectionPrice")
+private Double collectionPrice;
+@SerializedName("trackPrice")
+private Double trackPrice;
+@SerializedName("releaseDate")
+private String releaseDate;
+@SerializedName("collectionExplicitness")
+private String collectionExplicitness;
+@SerializedName("trackExplicitness")
+private String trackExplicitness;
+@SerializedName("discCount")
+private Integer discCount;
+@SerializedName("discNumber")
+private Integer discNumber;
+@SerializedName("trackCount")
+private Integer trackCount;
+@SerializedName("trackNumber")
+private Integer trackNumber;
+@SerializedName("trackTimeMillis")
+private Integer trackTimeMillis;
+@SerializedName("country")
+private String country;
+@SerializedName("currency")
+private String currency;
+@SerializedName("primaryGenreName")
+private String primaryGenreName;
+@SerializedName("isStreamable")
+private Boolean isStreamable;
+
