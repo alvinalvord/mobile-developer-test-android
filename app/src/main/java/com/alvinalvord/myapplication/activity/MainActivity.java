@@ -1,4 +1,4 @@
-package com.alvinalvord.myapplication;
+package com.alvinalvord.myapplication.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
